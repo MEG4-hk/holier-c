@@ -1,2 +1,2 @@
-# holier-c
+# HolierC
 A programming language based on the HolyC language by Terry A. Davis.
